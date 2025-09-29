@@ -32,9 +32,15 @@
 
 * **MySQL**
 
+## Not
 
-## Kurulum
+* Python betiğini ve çalıştırılabilir dosyayı çalıştırmak için **MySQL** gereklidir.
 
-* **[En Son Sürümden](https://github.com/wyd-18/Student-Management-System/releases/latest)** `.exe` dosyasını indirin:
-```bash
-  Sadece System Management System.exe dosyasını çalıştırın
+* Çalıştırmadan önce MySQL'de bir **bağlantı kurun**.
+
+* Basitçe repoyu kopyalayın (*clone*) ve `"main.py"` dosyasını çalıştırın. Çalıştırılabilir dosyalar (*executables*) için ise sürüm (*releases*) bölümünden indirin ve `.exe` dosyasını çalıştırın.
+
+* Veritabanı bağlantısı için, **ana bilgisayar adı**, **kullanıcı adı** ve **şifre** bir MySQL bağlantısındakiyle **aynıdır**.
+
+* Giriş yapmak için: **Kullanıcı Adı** - `admin` ve **Şifre** - `admin@123`
+
